@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ex mad</string>
+    <string name="F_Name">First Name</string>
+    <string name="Email">Email</string>
+    <string name="M_No">Mobile No</string>
+    <string name="Country">Country</string>
+    <string name="User">User</string>
+    <string name="Password">Password</string>
+    <string name="No_of_Persons">No of Persons</string>
+    <string name="Package_Type">Package Type</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Add_Packages">Add Packages</string>
+    <string name="View_Packages">View Packages</string>
+    <string name="C_Password">Confirm Password</string>
+</resources>
