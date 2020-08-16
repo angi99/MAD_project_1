@@ -268,10 +268,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="117" key="AndroidThemeDialog/0.0.1536.824@0.0.1536.824" timestamp="1597404317584" />
-    <state x="424" y="0" key="CommitChangelistDialog2" timestamp="1597608533656">
+    <state x="424" y="0" key="CommitChangelistDialog2" timestamp="1597610494650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597608533656" />
+    <state x="424" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597610494650" />
     <state x="551" y="177" key="Downloadable.Font.Dialog.Size" timestamp="1597396573230">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -308,6 +308,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1597597641414" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597610475008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1597610475008" />
     <state x="525" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1597608680054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
