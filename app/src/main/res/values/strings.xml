@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Date">DD/MM/YYYY</string>
+    <string name="Destination">Enter Destination</string>
+    <string name="number">Enter number</string>
+    <string name="click">Click Here</string>
+    <string name="ptab">Press Tab</string>
+    <string name="SADD">Sucessfully Added</string>
+    <string name="Edit2">Sucessfully Edited</string>
+    <string name="Del">Sucessfully Deleted</string>
+    <string name="Notify">Sucessfully Notified</string>
+</resources>
