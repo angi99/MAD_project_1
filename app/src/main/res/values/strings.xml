@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IT19070940</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_users">MainActivity</string>
+    <string name="users">User profiles</string>
+    <string name="pkg">Promotion packages</string>
+    <string name="hotel">Hotels</string>
+    <string name="close">Close</string>
+    <string name="confirm">Confirm</string>
+</resources>

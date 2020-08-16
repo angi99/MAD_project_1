@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/profile_selector"
+        android:title="User profiles"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/nav_hotels"
+        android:icon="@drawable/ic_baseline_hotel_24"
+        android:title="Hotels"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/nav_packages"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"
+        android:title="Promotion packages"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_baseline_lock_24"
+        android:title="Logout"
+        app:showAsAction="always"/>
+
+</menu>

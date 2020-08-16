@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.it19070940">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".promotionDeleted"></activity>
+        <activity android:name=".package_added" />
+        <activity android:name=".addPromotion" />
+        <activity android:name=".Promotions" />
+        <activity android:name=".hotel_deleted" />
+        <activity android:name=".delete_hotels" />
+        <activity android:name=".hotelUpdated" />
+        <activity android:name=".EditHotels" />
+        <activity android:name=".rooms" />
+        <activity android:name=".profile_deleted" />
+        <activity android:name=".delete_profile" />
+        <activity
+            android:name=".users"
+            android:label="@string/title_activity_users" />
+        <activity
+            android:name=".home"
+            android:label="@string/title_activity_home" />
+        <activity android:name=".invalid_username" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
