@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">travel</string>
+    <string name="show_details">SHOWDETAILS</string>
+    <string name="angel_beach">ANGELBEACH</string>
+    <string name="con_firm">CONFIRM</string>
+    <string name="book_ed">BOOKED</string>
+    <string name="remove_ed">REMOVED</string>
+    <string name="check_in">CHECKIN</string>
+    <string name="check_out">CHECKOUT</string>
+
+
+</resources>
